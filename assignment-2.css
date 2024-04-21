@@ -1,0 +1,79 @@
+/* Style the card using
+    position,
+    padding,
+    margin,
+    line-height,
+    border
+ */
+ h3 {
+  position: absolute;
+  top: 5%;
+  left: 50px;
+  padding: 10px 15px;
+  border: 2px solid #000;
+  border-radius: 5px;
+  background-color: white;
+  display: flex;
+  margin-right: 95%;
+}
+
+h2 {
+  position:absolute;
+  top: 90px;
+  left: 160px;
+  padding: 10px 15px;
+  border: 2px solid white;
+  border-radius: 5px;
+  background-color: white;
+  display:flex;
+  margin-right: 5px;
+  z-index: 1;
+  
+}
+p  { 
+  position:absolute;
+  top: 10%;
+  left: 50px;
+  padding: 100px 100px;
+  border: 2px solid #000;
+  border-radius: 5px;
+  background-color: white;
+  display:inline-block;
+  margin-right: 5px;  
+  
+}
+
+  
+  
+
+/*h3 {
+  top: 10%;
+  left: 50px;
+  padding: 10px 15px;
+  border: 2px solid #000;
+  border-radius: 5px;
+  background-color: white;
+  margin-right: 95%;
+}
+
+h2
+{
+  top: 10%;
+  left: 50px;
+  padding: 10px 15px;
+  border: 2px solid #000;
+  border-radius: 5px;
+  background-color: white;
+  margin-right: 80%;
+  
+}
+
+p
+{
+  top: 10%;
+  left: 50px;
+  padding: 10px 15px;
+  border: 2px solid #000;
+  border-radius: 5px;
+  background-color: white;
+   */

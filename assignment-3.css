@@ -1,0 +1,39 @@
+/* Style the section using
+    flex,
+    flex-direction,
+    gap,
+    margin,
+    padding,
+    background-color,
+    border-radius,
+    max-width
+ */
+
+
+ @media screen and (max-width: 900px) {
+
+ }
+ section 
+ {
+ display: flex;
+ flex-wrap: wrap;
+ background-color: black;
+ margin: 40px;
+ padding: 100px 100px;
+ }
+ 
+ article 
+ {
+     flex: 1;
+     margin: 14px;
+     display: block;
+     padding: 50px 50px;
+     border: 2px solid #000;
+     border-radius: 5px;
+     background-color: rgb(206, 116, 13);
+     display:inline-block;
+     flex-direction: row;
+     
+ 
+ }
+ 
